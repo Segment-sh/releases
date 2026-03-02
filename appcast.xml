@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Segment Updates</title>
+    <link>https://segment.sh</link>
+    <description>Most recent updates to Segment</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.1</title>
+      <description><![CDATA[
+Release 1.0.1
+      ]]></description>
+      <sparkle:fullReleaseNotesLink>https://segment.sh/changelog</sparkle:fullReleaseNotesLink>
+      <pubDate>Mon, 02 Mar 2026 23:40:32 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/segment-sh/releases/releases/download/v1.0.1/Segment-1.0.1.dmg"
+        sparkle:edSignature="UPA4Wmoska2Bd0eAiMDJMuCjYKEeXPDXdYWT/+8sAxfhp9wKT2xDteLZG0ig+eLcRuRRvpW91lqEgVwbdcVKDA=="
+        length="15191800"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>

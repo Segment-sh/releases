@@ -6,19 +6,19 @@
     <description>Most recent updates to Segment</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.1</title>
+      <title>Version 1.1.2</title>
       <description><![CDATA[
-Release 1.1.1
+Release 1.1.2
       ]]></description>
       <sparkle:fullReleaseNotesLink>https://segment.sh/changelog</sparkle:fullReleaseNotesLink>
-      <pubDate>Tue, 03 Mar 2026 01:49:27 +0000</pubDate>
-      <sparkle:version>37</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <pubDate>Tue, 03 Mar 2026 11:10:41 +0000</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/segment-sh/releases/releases/download/v1.1.1/Segment-1.1.1.dmg"
-        sparkle:edSignature="JUf8yd9Zg2U6qh7CumsMplOPL9W4jF9q03FZSZOIGJv10+uXPghO1OlG+mRH14I8avZBATwCLtUN3vp1oLiuBA=="
-        length="15491788"
+        url="https://github.com/segment-sh/releases/releases/download/v1.1.2/Segment-1.1.2.dmg"
+        sparkle:edSignature="0L0xTh6sioqLwTBqU9REELmVmSPySYTAWQ3pYdMAD6bm8hPwez/xya4Nun28+rq1Fm5Mo003QDbSH2wdu3kCCQ=="
+        length="15496309"
         type="application/octet-stream"/>
     </item>
   </channel>
